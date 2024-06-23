@@ -1,0 +1,8 @@
+{
+    "mode": "ws",
+    "hooks": {
+        "after_create_match": "sync"
+        // ...
+        // TODO implement all hooks
+    }
+}
